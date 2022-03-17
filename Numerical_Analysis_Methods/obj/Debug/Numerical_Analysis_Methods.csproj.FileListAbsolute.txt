@@ -1,0 +1,51 @@
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe.config
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.pdb
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Bisection.resources
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Methods.resources
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.exe
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.pdb
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\ahmed\source\repos\Numerical_Analysis_Methods\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CopyComplete
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe.config
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.pdb
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\MathParser.org-mXparser.dll
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Bisection.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Methods.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Properties.Resources.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.GenerateResource.cache
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CoreCompileInputs.cache
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CopyComplete
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.exe
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.pdb
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.AssemblyReference.cache
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.GaussElimination.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.DefaultDesign.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.LuDecomposition.resources
+E:\Github Files\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Cramer.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe.config
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.exe
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\Numerical_Analysis_Methods.pdb
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.AssemblyReference.cache
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Bisection.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Cramer.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.FalsePosition.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Methods.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.LuDecomposition.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.GaussElimination.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.DefaultDesign.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Newton.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Properties.Resources.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.Secant.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.SimpleFixedPoint.resources
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.GenerateResource.cache
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CoreCompileInputs.cache
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.csproj.CopyComplete
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.exe
+C:\Users\badr\OneDrive\Desktop\Numerical\Numerical_Analysis_Project\Numerical_Analysis_Methods\obj\Debug\Numerical_Analysis_Methods.pdb
