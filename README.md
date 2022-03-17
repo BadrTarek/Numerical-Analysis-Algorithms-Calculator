@@ -1,7 +1,7 @@
 # Numerical_Analysis_Project
 ## Algorithms
-### Bisection
-### Carmer
+1- *Bisection*
+2- *Carmer*
 ### False Position
 ### Gauss Elimination
 ### LuDecomposition
